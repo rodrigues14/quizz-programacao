@@ -1,3 +1,3 @@
 # Quizz de programação
 
-Projeto em desenvolvimento
+Projeto realizado durante o curso de JS ministrado pelo Matheus Battisti
